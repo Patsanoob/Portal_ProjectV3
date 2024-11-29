@@ -2,17 +2,7 @@
 	"FileVersion": 3,
 	"EngineAssociation": "5.5",
 	"Category": "",
-	"Description": "",
-	"Modules": [
-		{
-			"Name": "Portal_ProjectV2",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
-		}
-	],
+	"Description": "",	
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
